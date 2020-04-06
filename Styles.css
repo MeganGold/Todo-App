@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    font-family: Roboto,sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f52f57;
+}
+
+h1 {
+    color: #fff;
+    margin-bottom: 25px;
+}
+
+form {
+    display: flex;
+}
+
+input {
+    padding: 10px;
+    border: none;
+}
+
+button {
+    background-color: #aa1735;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+}
