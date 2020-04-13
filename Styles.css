@@ -32,3 +32,15 @@ button {
     padding: 10px 30px;
     border: none;
 }
+
+ul {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    color: #fff;
+    padding: 30px;
+}
+
+ul > li {
+    margin-top: 15px;
+}
